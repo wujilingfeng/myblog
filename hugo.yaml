@@ -1,9 +1,10 @@
-baseurl: https://wujilingfeng.github.io/myblog/
+baseurl: https://wujilingfeng.github.io/
 # languageCode: en-us
 languageCode: zh-cn
 theme: hugo-theme-stack
 title: 五级灵风的博客
 copyright: LI BO
+
 relativeURLs: true
 publishDir: docs
 # Theme i18n support
